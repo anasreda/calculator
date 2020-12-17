@@ -22,4 +22,5 @@ int subtraction()
 	if (number1 > number2) return (number1 - number2);
 	else return (number2 - number1);
 }
+	~calculator();
 };

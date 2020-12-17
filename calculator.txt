@@ -16,4 +16,10 @@ int addition()
 {
 	return (number1 + number2);
 }
+////subtraction branch
+int subtraction()
+{
+	if (number1 > number2) return (number1 - number2);
+	else return (number2 - number1);
+}
 };

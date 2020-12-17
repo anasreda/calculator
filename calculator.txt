@@ -1,0 +1,5 @@
+class
+{
+private:
+	int number1, number2;
+};
